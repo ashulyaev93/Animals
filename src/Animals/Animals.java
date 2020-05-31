@@ -20,7 +20,6 @@ public class Animals
         this.swim = swim;
     }
 
-    //Вывод в консоль
     public void name(){
         System.out.println("Животное: " + name);
     }
