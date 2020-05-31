@@ -6,6 +6,8 @@ public class Dog extends Animals
     {
 
     }
+
+    //у каждой собаки есть эти навыки
     public Dog(String name, int run, double jump, int swim)
     {
         this.name = name;
