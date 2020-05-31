@@ -9,4 +9,10 @@ public class Cat extends Animals
                 this.run = run;
                 this.jump = jump;
         }
+
+        public void swim ()
+        {
+                System.out.println("Животное " + name + " не плавает");
+                System.out.println();
+        }
 }
